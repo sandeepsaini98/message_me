@@ -22,11 +22,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
-Warning: Permanently added 'github.com,13.234.176.102' (RSA) to the list of known hosts.
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-
+gem 'semantic-ui-sass'
 gem 'jquery-rails'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
